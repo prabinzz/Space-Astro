@@ -70,3 +70,4 @@ function Ship(x, y, size){
 		pop();
 	}
 }
+
