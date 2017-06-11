@@ -7,7 +7,7 @@ A Fun space mini-game created in p5.js framework.
   
   #### Controls:
   - **UP Arrow** to accelerate
-  - **LEFT Arrow** & _RIGHT Arrow_ to rotate.
+  - **LEFT Arrow** & **RIGHT Arrow** to rotate.
   - **Space Button** to fire.
   
 ### Screenshots
