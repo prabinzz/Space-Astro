@@ -1,9 +1,6 @@
 # Space-Astro
 A Fun space mini-game created in p5.js framework. 
 
-### try:
-
-  Try this game on http://almightyyfreaks.co.nf/space-astro/
   
   #### Controls:
   - **UP Arrow** to accelerate
